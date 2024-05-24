@@ -1,10 +1,63 @@
-- 👋 Hi, I’m @EoinFarrell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-EoinFarrell/EoinFarrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 👷 Check out what I'm currently working on
+
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (4 weeks ago)
+- [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) -  (3 months ago)
+- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (4 months ago)
+- [EoinFarrell/photos.eoinfarrell.dev](https://github.com/EoinFarrell/photos.eoinfarrell.dev) -  (4 months ago)
+- [EoinFarrell/photos.eoinfarrell.dev.api](https://github.com/EoinFarrell/photos.eoinfarrell.dev.api) -  (4 months ago)
+- [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (4 months ago)
+
+#### 🌱 My latest projects
+
+- [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) - 
+- [EoinFarrell/thesis-f1-prediction-and-data-analysis](https://github.com/EoinFarrell/thesis-f1-prediction-and-data-analysis) - 
+- [EoinFarrell/docker-and-k8-demo](https://github.com/EoinFarrell/docker-and-k8-demo) - 
+- [EoinFarrell/food-eoinfarrell-dev](https://github.com/EoinFarrell/food-eoinfarrell-dev) - 
+- [EoinFarrell/photos.eoinfarrell.dev.api](https://github.com/EoinFarrell/photos.eoinfarrell.dev.api) - 
+- [EoinFarrell/2022-mondello-24-hour.eoinfarrell.dev](https://github.com/EoinFarrell/2022-mondello-24-hour.eoinfarrell.dev) - 
+- [EoinFarrell/email-forwarder](https://github.com/EoinFarrell/email-forwarder) - 
+- [EoinFarrell/f1-reminders](https://github.com/EoinFarrell/f1-reminders) - 
+- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) - 
+- [EoinFarrell/photos.eoinfarrell.dev](https://github.com/EoinFarrell/photos.eoinfarrell.dev) - 
+
+#### 🔭 Latest releases I've contributed to
+
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.7.2), today) - Prometheus community Helm charts
+
+#### 🔨 My recent Pull Requests
+
+- [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (4 months ago)
+- [Remove class declarations on closing elements](https://github.com/mdbootstrap/TW-Elements/pull/1071) on [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) (2 years ago)
+- [Updating readme with latest cloudinary parameter requirements](https://github.com/piducancore/gatsby-source-cloudinary-metadata/pull/1) on [piducancore/gatsby-source-cloudinary-metadata](https://github.com/piducancore/gatsby-source-cloudinary-metadata) (4 years ago)
+
+#### 📓 Gists I wrote
+
+- [](https://gist.github.com/1cde66bf24032a6d84f3114e4c6c6b3d) (4 years ago)
+
+#### ⭐ Recent Stars
+
+- [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (1 week ago)
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (2 weeks ago)
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (2 weeks ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 month ago)
+- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool (3 months ago)
+- [EoinFarrell/photos.eoinfarrell.dev](https://github.com/EoinFarrell/photos.eoinfarrell.dev) -  (3 years ago)
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers (4 years ago)
+- [piducancore/gatsby-source-cloudinary-metadata](https://github.com/piducancore/gatsby-source-cloudinary-metadata) - This plugin turns your Cloudinary media files including its embedded metadata into Gatsby nodes. (4 years ago)
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/...
+- Fediverse: https://mastodon.social/@...
+- Blog: https://...
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
