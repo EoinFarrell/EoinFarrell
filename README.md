@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-12.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-12.0.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.9.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
