@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.9.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.19.1), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
