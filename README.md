@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.11.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.0.2), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
