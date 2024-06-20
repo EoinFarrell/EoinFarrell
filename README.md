@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.8.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.22.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
