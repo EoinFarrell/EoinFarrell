@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (today)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) -  (4 months ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (5 months ago)
@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.20.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.20.1), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
