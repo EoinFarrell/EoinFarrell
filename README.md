@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (today)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) -  (4 months ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (5 months ago)
@@ -10,12 +10,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.0.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.0.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
 - [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 month ago)
-- [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (5 months ago)
+- [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (6 months ago)
 - [Remove class declarations on closing elements](https://github.com/mdbootstrap/TW-Elements/pull/1071) on [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) (2 years ago)
 - [Updating readme with latest cloudinary parameter requirements](https://github.com/piducancore/gatsby-source-cloudinary-metadata/pull/1) on [piducancore/gatsby-source-cloudinary-metadata](https://github.com/piducancore/gatsby-source-cloudinary-metadata) (4 years ago)
 
