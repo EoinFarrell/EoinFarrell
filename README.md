@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.14.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.9.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
