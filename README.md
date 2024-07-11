@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.24.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
