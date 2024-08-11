@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.38.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.38.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.3.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
