@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.5.1), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.3.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
