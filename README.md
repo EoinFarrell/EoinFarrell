@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.3.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.3.1), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -25,7 +25,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (3 months ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (3 months ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 months ago)
-- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool (6 months ago)
+- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool (7 months ago)
 
 #### 💬 Feedback
 
