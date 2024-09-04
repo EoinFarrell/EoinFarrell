@@ -10,12 +10,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.3.1), 5 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.3.1), 6 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
 - [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 months ago)
-- [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (7 months ago)
+- [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (8 months ago)
 - [Remove class declarations on closing elements](https://github.com/mdbootstrap/TW-Elements/pull/1071) on [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) (2 years ago)
 - [Updating readme with latest cloudinary parameter requirements](https://github.com/piducancore/gatsby-source-cloudinary-metadata/pull/1) on [piducancore/gatsby-source-cloudinary-metadata](https://github.com/piducancore/gatsby-source-cloudinary-metadata) (4 years ago)
 
