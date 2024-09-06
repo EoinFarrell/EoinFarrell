@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.4.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.4.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -22,7 +22,7 @@
 #### ⭐ Recent Stars
 
 - [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (3 months ago)
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (3 months ago)
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (4 months ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (4 months ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 months ago)
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool (7 months ago)
