@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (today)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 - [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) -  (7 months ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (8 months ago)
-- [EoinFarrell/photos.eoinfarrell.dev](https://github.com/EoinFarrell/photos.eoinfarrell.dev) -  (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
