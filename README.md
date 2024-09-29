@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (1 day ago)
+- [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (2 days ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 - [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) -  (7 months ago)
@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.5.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.5.1), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -25,7 +25,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (4 months ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (4 months ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (5 months ago)
-- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool (7 months ago)
+- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool (8 months ago)
 
 #### 💬 Feedback
 
