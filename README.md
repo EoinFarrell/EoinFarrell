@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.5.1), 4 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-64.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-64.0.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
