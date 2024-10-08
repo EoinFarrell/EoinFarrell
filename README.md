@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (5 days ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (6 days ago)
 - [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 - [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) -  (8 months ago)
@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.7.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.7.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
