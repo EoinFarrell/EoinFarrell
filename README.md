@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 week ago)
-- [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (1 week ago)
+- [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 - [EoinFarrell/protobuf-testing](https://github.com/EoinFarrell/protobuf-testing) -  (8 months ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
