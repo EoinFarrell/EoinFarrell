@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.15.0), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.11.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.11.0-rc1-labs), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
