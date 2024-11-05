@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.6.0), today) - Prometheus community Helm charts
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.0](https://github.com/moby/buildkit/releases/tag/v0.17.0), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.6.0), 1 day ago) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.0](https://github.com/moby/buildkit/releases/tag/v0.17.0), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
@@ -24,7 +24,7 @@
 #### ⭐ Recent Stars
 
 - [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (5 months ago)
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (5 months ago)
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (6 months ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (6 months ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (6 months ago)
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool (9 months ago)
