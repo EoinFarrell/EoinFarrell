@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 weeks ago)
-- [EoinFarrell/sca-vs-irish-rail](https://github.com/EoinFarrell/sca-vs-irish-rail) -  (4 weeks ago)
+- [EoinFarrell/sca-vs-irish-rail](https://github.com/EoinFarrell/sca-vs-irish-rail) -  (1 month ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 month ago)
 - [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.0), today) - Prometheus community Helm charts
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.1](https://github.com/moby/buildkit/releases/tag/v0.17.1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.0), 1 day ago) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.1](https://github.com/moby/buildkit/releases/tag/v0.17.1), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
