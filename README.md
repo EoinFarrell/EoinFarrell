@@ -6,11 +6,11 @@
 - [EoinFarrell/sca-vs-irish-rail](https://github.com/EoinFarrell/sca-vs-irish-rail) -  (1 month ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 month ago)
 - [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (1 month ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 months ago)
+- [EoinFarrell/ansible_role_mullvad_client](https://github.com/EoinFarrell/ansible_role_mullvad_client) - An ansible role that installs and configures the mullvad client. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.1), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.1](https://github.com/moby/buildkit/releases/tag/v0.17.1), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
