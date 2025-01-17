@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.19.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.19.0-rc3), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.2.1), today) - Prometheus community Helm charts
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.13.0-rc1](https://github.com/moby/buildkit/releases/tag/dockerfile/1.13.0-rc1), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
