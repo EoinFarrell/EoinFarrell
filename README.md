@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.0.1), today) - Prometheus community Helm charts
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.19.0](https://github.com/moby/buildkit/releases/tag/v0.19.0), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.0.1), 1 day ago) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.19.0](https://github.com/moby/buildkit/releases/tag/v0.19.0), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
