@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-7.0.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.44.0), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.14.0-rc2](https://github.com/moby/buildkit/releases/tag/dockerfile/1.14.0-rc2), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
