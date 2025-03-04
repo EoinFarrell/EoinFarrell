@@ -10,12 +10,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.4), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.11.1), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.20.0](https://github.com/moby/buildkit/releases/tag/v0.20.0), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
-- [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (1 month ago)
+- [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (2 months ago)
 - [Add/fix references to labs dockerfile version](https://github.com/moby/buildkit/pull/5447) on [moby/buildkit](https://github.com/moby/buildkit) (4 months ago)
 - [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (9 months ago)
 - [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (1 year ago)
@@ -28,7 +28,7 @@
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (2 months ago)
 - [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (9 months ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (9 months ago)
-- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (9 months ago)
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (10 months ago)
 
 #### 💬 Feedback
 
