@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.5), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.0.3), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.20.0](https://github.com/moby/buildkit/releases/tag/v0.20.0), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
