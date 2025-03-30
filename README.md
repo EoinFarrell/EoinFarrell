@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.2), 2 days ago) - Prometheus community Helm charts
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.20.2](https://github.com/moby/buildkit/releases/tag/v0.20.2), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.2), 3 days ago) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.20.2](https://github.com/moby/buildkit/releases/tag/v0.20.2), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
@@ -24,7 +24,7 @@
 
 #### ⭐ Recent Stars
 
-- [EoinFarrell/homelab.eoinfarrell.dev](https://github.com/EoinFarrell/homelab.eoinfarrell.dev) -  (2 months ago)
+- [EoinFarrell/homelab.eoinfarrell.dev](https://github.com/EoinFarrell/homelab.eoinfarrell.dev) -  (3 months ago)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (3 months ago)
 - [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (10 months ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (10 months ago)
