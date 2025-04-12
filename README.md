@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.15.0-rc2](https://github.com/moby/buildkit/releases/tag/dockerfile/1.15.0-rc2), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), today) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.15.0-rc2](https://github.com/moby/buildkit/releases/tag/dockerfile/1.15.0-rc2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 - [EoinFarrell/homelab.eoinfarrell.dev](https://github.com/EoinFarrell/homelab.eoinfarrell.dev) -  (3 months ago)
-- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (3 months ago)
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (4 months ago)
 - [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (11 months ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (11 months ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (11 months ago)
