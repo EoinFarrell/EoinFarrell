@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.2), 1 day ago) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.21.0](https://github.com/moby/buildkit/releases/tag/v0.21.0), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
