@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.8.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.1), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.21.0](https://github.com/moby/buildkit/releases/tag/v0.21.0), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
