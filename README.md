@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.2), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.0.0), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.21.1](https://github.com/moby/buildkit/releases/tag/v0.21.1), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
