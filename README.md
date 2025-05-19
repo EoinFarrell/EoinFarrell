@@ -10,14 +10,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.0), 1 day ago) - Prometheus community Helm charts
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.22.0-rc1), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.0), 2 days ago) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.22.0-rc1), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
 - [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (4 months ago)
 - [Add/fix references to labs dockerfile version](https://github.com/moby/buildkit/pull/5447) on [moby/buildkit](https://github.com/moby/buildkit) (6 months ago)
-- [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (11 months ago)
+- [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (1 year ago)
 - [Remove class declarations on closing elements](https://github.com/mdbootstrap/TW-Elements/pull/1071) on [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) (2 years ago)
 - [Updating readme with latest cloudinary parameter requirements](https://github.com/piducancore/gatsby-source-cloudinary-metadata/pull/1) on [piducancore/gatsby-source-cloudinary-metadata](https://github.com/piducancore/gatsby-source-cloudinary-metadata) (5 years ago)
