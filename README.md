@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0-rc2](https://github.com/moby/buildkit/releases/tag/v0.22.0-rc2), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.19.0), today) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0-rc2](https://github.com/moby/buildkit/releases/tag/v0.22.0-rc2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.19.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
