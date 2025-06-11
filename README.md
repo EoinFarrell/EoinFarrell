@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0](https://github.com/moby/buildkit/releases/tag/v0.22.0), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0](https://github.com/moby/buildkit/releases/tag/v0.22.0), 3 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
@@ -24,7 +24,7 @@
 #### ⭐ Recent Stars
 
 - [EoinFarrell/homelab.eoinfarrell.dev](https://github.com/EoinFarrell/homelab.eoinfarrell.dev) -  (5 months ago)
-- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (5 months ago)
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (6 months ago)
 - [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (1 year ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 year ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (1 year ago)
