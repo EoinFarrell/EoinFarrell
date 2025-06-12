@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0](https://github.com/moby/buildkit/releases/tag/v0.22.0), 3 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.23.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.23.0-rc1), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
