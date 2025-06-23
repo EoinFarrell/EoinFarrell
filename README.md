@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (4 months ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (8 months ago)
 - [EoinFarrell/sca-vs-irish-rail](https://github.com/EoinFarrell/sca-vs-irish-rail) -  (8 months ago)
 - [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) -  (8 months ago)
