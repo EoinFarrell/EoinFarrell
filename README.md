@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 weeks ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (3 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (8 months ago)
 - [EoinFarrell/sca-vs-irish-rail](https://github.com/EoinFarrell/sca-vs-irish-rail) -  (9 months ago)
@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.0), 2 days ago) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.23.2](https://github.com/moby/buildkit/releases/tag/v0.23.2), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
