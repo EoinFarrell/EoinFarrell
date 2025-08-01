@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.10.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.0), today) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.23.2](https://github.com/moby/buildkit/releases/tag/v0.23.2), 1 month ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
@@ -18,7 +18,7 @@
 - [[grafana] Yaml numbers in grafana.ini break templating](https://github.com/grafana/helm-charts/pull/3750) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 - [[prometheus] Fix small NodePort bugs on services](https://github.com/prometheus-community/helm-charts/pull/5771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 month ago)
 - [[kube-state-metrics] Only set NodePort on valid service type](https://github.com/prometheus-community/helm-charts/pull/5770) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 month ago)
-- [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (6 months ago)
+- [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (7 months ago)
 - [Add/fix references to labs dockerfile version](https://github.com/moby/buildkit/pull/5447) on [moby/buildkit](https://github.com/moby/buildkit) (9 months ago)
 - [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (2 years ago)
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (2 days ago)
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (3 days ago)
 - [EoinFarrell/homelab.eoinfarrell.dev](https://github.com/EoinFarrell/homelab.eoinfarrell.dev) -  (7 months ago)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (7 months ago)
 - [das-kaesebrot/git-sync](https://github.com/das-kaesebrot/git-sync) - Auto-mirroring of git repositories (1 year ago)
