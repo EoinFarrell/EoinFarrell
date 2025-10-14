@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (3 days ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 months ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.40.1), today) - Prometheus community Helm charts
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.25.1](https://github.com/moby/buildkit/releases/tag/v0.25.1), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.40.1), 1 day ago) - Prometheus community Helm charts
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.25.1](https://github.com/moby/buildkit/releases/tag/v0.25.1), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
 
