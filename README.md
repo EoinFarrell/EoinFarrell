@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.2), 2 days ago) - Prometheus community Helm charts
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.25.1](https://github.com/moby/buildkit/releases/tag/v0.25.1), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### 🔨 My recent Pull Requests
