@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 week ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.15.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.2.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
