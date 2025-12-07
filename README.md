@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (3 days ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.6.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
