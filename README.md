@@ -7,7 +7,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-7.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.6.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
