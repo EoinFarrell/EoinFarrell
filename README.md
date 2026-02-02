@@ -7,7 +7,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.32](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.32), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.32.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
