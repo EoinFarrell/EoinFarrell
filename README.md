@@ -7,7 +7,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.22.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-27.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-27.0.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
