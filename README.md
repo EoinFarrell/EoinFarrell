@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 months ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (7 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.33.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.33.1), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
