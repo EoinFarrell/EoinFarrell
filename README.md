@@ -7,7 +7,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.8.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.42.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.42.1), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
