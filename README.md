@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (5 days ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
