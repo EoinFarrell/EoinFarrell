@@ -7,7 +7,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.2), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
