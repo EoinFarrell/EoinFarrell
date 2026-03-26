@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (3 days ago)
+- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (4 days ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.14.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.14.1), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,7 +26,7 @@
 
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (3 weeks ago)
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (5 months ago)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (7 months ago)
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (8 months ago)
 - [EoinFarrell/homelab.eoinfarrell.dev](https://github.com/EoinFarrell/homelab.eoinfarrell.dev) -  (1 year ago)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (1 year ago)
 
