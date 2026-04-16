@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.3), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -16,7 +16,7 @@
 - [[prometheus] Fix small NodePort bugs on services](https://github.com/prometheus-community/helm-charts/pull/5771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (10 months ago)
 - [[kube-state-metrics] Only set NodePort on valid service type](https://github.com/prometheus-community/helm-charts/pull/5770) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (10 months ago)
 - [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (1 year ago)
-- [Add/fix references to labs dockerfile version](https://github.com/moby/buildkit/pull/5447) on [moby/buildkit](https://github.com/moby/buildkit) (1 year ago)
+- [Add/fix references to labs dockerfile version](https://github.com/moby/buildkit/pull/5447) on [moby/buildkit](https://github.com/moby/buildkit) (2 years ago)
 - [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 years ago)
 - [Update title](https://github.com/EoinFarrell/eoinfarrell.dev/pull/29) on [EoinFarrell/eoinfarrell.dev](https://github.com/EoinFarrell/eoinfarrell.dev) (2 years ago)
 - [Remove class declarations on closing elements](https://github.com/mdbootstrap/TW-Elements/pull/1071) on [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) (3 years ago)
