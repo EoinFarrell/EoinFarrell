@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.45.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.45.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.21.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
