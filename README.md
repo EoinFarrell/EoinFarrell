@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.20.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.23.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
