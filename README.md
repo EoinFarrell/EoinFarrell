@@ -8,13 +8,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.26.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.26.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
-- [[grafana] Yaml numbers in grafana.ini break templating](https://github.com/grafana/helm-charts/pull/3750) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (11 months ago)
-- [[prometheus] Fix small NodePort bugs on services](https://github.com/prometheus-community/helm-charts/pull/5771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (11 months ago)
-- [[kube-state-metrics] Only set NodePort on valid service type](https://github.com/prometheus-community/helm-charts/pull/5770) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (11 months ago)
+- [[grafana] Yaml numbers in grafana.ini break templating](https://github.com/grafana/helm-charts/pull/3750) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 year ago)
+- [[prometheus] Fix small NodePort bugs on services](https://github.com/prometheus-community/helm-charts/pull/5771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
+- [[kube-state-metrics] Only set NodePort on valid service type](https://github.com/prometheus-community/helm-charts/pull/5770) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (1 year ago)
 - [Add/fix references to labs dockerfile version](https://github.com/moby/buildkit/pull/5447) on [moby/buildkit](https://github.com/moby/buildkit) (2 years ago)
 - [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 years ago)
