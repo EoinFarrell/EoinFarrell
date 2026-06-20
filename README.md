@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 months ago)
-- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (2 months ago)
+- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (3 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
