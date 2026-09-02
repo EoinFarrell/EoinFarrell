@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 day ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 days ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
