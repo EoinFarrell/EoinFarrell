@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 days ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (3 days ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -23,7 +23,7 @@
 
 #### ⭐ Recent Stars
 
-- [eddymoulton/jellyfin-plugin-oidc](https://github.com/eddymoulton/jellyfin-plugin-oidc) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (1 month ago)
+- [eddymoulton/jellyfin-plugin-oidc](https://github.com/eddymoulton/jellyfin-plugin-oidc) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (2 months ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (6 months ago)
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (11 months ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (1 year ago)
