@@ -10,6 +10,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Linux updateMachine/shell-startup breakages](https://github.com/EoinFarrell/dotfiles/pull/21) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (today)
 - [Phase 3 follow-ups: real-world fixes found via live testing](https://github.com/EoinFarrell/dotfiles/pull/20) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (6 days ago)
 - [Phase 3: single provision.yaml entry point, shared symlink engine](https://github.com/EoinFarrell/dotfiles/pull/18) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (6 days ago)
 - [Update machine command](https://github.com/EoinFarrell/dotfiles/pull/16) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (6 days ago)
@@ -19,7 +20,6 @@
 - [[kube-state-metrics] Only set NodePort on valid service type](https://github.com/prometheus-community/helm-charts/pull/5770) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (2 years ago)
 - [Add/fix references to labs dockerfile version](https://github.com/moby/buildkit/pull/5447) on [moby/buildkit](https://github.com/moby/buildkit) (2 years ago)
-- [[kube-prometheus-stack] Correctly set version to alertManagerSpec.version](https://github.com/prometheus-community/helm-charts/pull/4561) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 years ago)
 
 #### ⭐ Recent Stars
 
