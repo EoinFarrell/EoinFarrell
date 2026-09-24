@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (today)
-- [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (3 days ago)
+- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (1 day ago)
+- [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (4 days ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ansible: clear provision deprecation warnings (#22)](https://github.com/EoinFarrell/dotfiles/pull/23) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 week ago)
-- [Fix Linux updateMachine/shell-startup breakages](https://github.com/EoinFarrell/dotfiles/pull/21) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 week ago)
+- [ansible: clear provision deprecation warnings (#22)](https://github.com/EoinFarrell/dotfiles/pull/23) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
+- [Fix Linux updateMachine/shell-startup breakages](https://github.com/EoinFarrell/dotfiles/pull/21) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
 - [Phase 3 follow-ups: real-world fixes found via live testing](https://github.com/EoinFarrell/dotfiles/pull/20) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
 - [Phase 3: single provision.yaml entry point, shared symlink engine](https://github.com/EoinFarrell/dotfiles/pull/18) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
 - [Update machine command](https://github.com/EoinFarrell/dotfiles/pull/16) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
