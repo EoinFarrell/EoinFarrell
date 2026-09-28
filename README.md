@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (today)
-- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (4 days ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 day ago)
+- [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (5 days ago)
 - [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
