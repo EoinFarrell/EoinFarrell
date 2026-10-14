@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (today)
 - [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (1 week ago)
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 weeks ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/25) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (today)
 - [ansible: clear provision deprecation warnings (#22)](https://github.com/EoinFarrell/dotfiles/pull/23) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Fix Linux updateMachine/shell-startup breakages](https://github.com/EoinFarrell/dotfiles/pull/21) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Phase 3 follow-ups: real-world fixes found via live testing](https://github.com/EoinFarrell/dotfiles/pull/20) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
@@ -20,7 +21,6 @@
 - [[grafana] Yaml numbers in grafana.ini break templating](https://github.com/grafana/helm-charts/pull/3750) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 year ago)
 - [[prometheus] Fix small NodePort bugs on services](https://github.com/prometheus-community/helm-charts/pull/5771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [[kube-state-metrics] Only set NodePort on valid service type](https://github.com/prometheus-community/helm-charts/pull/5770) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
-- [Remove default run as root from jsonnet](https://github.com/grafana/mimir/pull/10339) on [grafana/mimir](https://github.com/grafana/mimir) (2 years ago)
 
 #### ⭐ Recent Stars
 
