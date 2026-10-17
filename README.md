@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Let copylast copy the last N commands or a single ~K command](https://github.com/EoinFarrell/dotfiles/pull/31) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (today)
 - [Add modern-web-guidance skill repo](https://github.com/EoinFarrell/dotfiles/pull/27) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (today)
 - [Add copylast and tmux prompt-jump bindings](https://github.com/EoinFarrell/dotfiles/pull/26) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (today)
 - [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/25) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (3 days ago)
@@ -20,7 +21,6 @@
 - [Phase 3: single provision.yaml entry point, shared symlink engine](https://github.com/EoinFarrell/dotfiles/pull/18) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Update machine command](https://github.com/EoinFarrell/dotfiles/pull/16) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Room dialog single line input -&gt; multi line input](https://github.com/jeppesens/eufy-clean/pull/159) on [jeppesens/eufy-clean](https://github.com/jeppesens/eufy-clean) (2 months ago)
-- [[grafana] Yaml numbers in grafana.ini break templating](https://github.com/grafana/helm-charts/pull/3750) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 year ago)
 
 #### ⭐ Recent Stars
 
