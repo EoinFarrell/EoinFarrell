@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (3 days ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (today)
 - [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (1 week ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (3 weeks ago)
 
@@ -11,6 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add modern-web-guidance skill repo](https://github.com/EoinFarrell/dotfiles/pull/27) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (today)
+- [Add copylast and tmux prompt-jump bindings](https://github.com/EoinFarrell/dotfiles/pull/26) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (today)
 - [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/25) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (3 days ago)
 - [ansible: clear provision deprecation warnings (#22)](https://github.com/EoinFarrell/dotfiles/pull/23) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Fix Linux updateMachine/shell-startup breakages](https://github.com/EoinFarrell/dotfiles/pull/21) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
@@ -19,8 +21,6 @@
 - [Update machine command](https://github.com/EoinFarrell/dotfiles/pull/16) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Room dialog single line input -&gt; multi line input](https://github.com/jeppesens/eufy-clean/pull/159) on [jeppesens/eufy-clean](https://github.com/jeppesens/eufy-clean) (2 months ago)
 - [[grafana] Yaml numbers in grafana.ini break templating](https://github.com/grafana/helm-charts/pull/3750) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 year ago)
-- [[prometheus] Fix small NodePort bugs on services](https://github.com/prometheus-community/helm-charts/pull/5771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
-- [[kube-state-metrics] Only set NodePort on valid service type](https://github.com/prometheus-community/helm-charts/pull/5770) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 
 #### ⭐ Recent Stars
 
