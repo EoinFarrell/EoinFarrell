@@ -24,11 +24,11 @@
 
 #### ⭐ Recent Stars
 
+- [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) - Autonomous development for real products. Governed agents build from specs you approve, follow the rules you set, and nothing merges until another agent proves it. Your decisions, judgement and taste are the bar that work must clear. Declare your vision and let agents build it. (today)
+- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem (today)
 - [eddymoulton/jellyfin-plugin-oidc](https://github.com/eddymoulton/jellyfin-plugin-oidc) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (3 months ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (7 months ago)
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (1 year ago)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (1 year ago)
-- [EoinFarrell/homelab.eoinfarrell.dev](https://github.com/EoinFarrell/homelab.eoinfarrell.dev) -  (2 years ago)
 
 #### 💬 Feedback
 
