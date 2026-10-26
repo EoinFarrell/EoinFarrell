@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 day ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 days ago)
 - [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (3 weeks ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (1 month ago)
 
@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/32) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 day ago)
+- [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/32) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 days ago)
 - [Let copylast copy the last N commands or a single ~K command](https://github.com/EoinFarrell/dotfiles/pull/31) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 week ago)
 - [Add modern-web-guidance skill repo](https://github.com/EoinFarrell/dotfiles/pull/27) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 week ago)
 - [Add copylast and tmux prompt-jump bindings](https://github.com/EoinFarrell/dotfiles/pull/26) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 week ago)
