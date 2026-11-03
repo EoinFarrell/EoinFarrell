@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 week ago)
-- [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (4 weeks ago)
+- [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (1 month ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -18,9 +18,9 @@
 - [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/25) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
 - [ansible: clear provision deprecation warnings (#22)](https://github.com/EoinFarrell/dotfiles/pull/23) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Fix Linux updateMachine/shell-startup breakages](https://github.com/EoinFarrell/dotfiles/pull/21) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
-- [Phase 3 follow-ups: real-world fixes found via live testing](https://github.com/EoinFarrell/dotfiles/pull/20) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
-- [Phase 3: single provision.yaml entry point, shared symlink engine](https://github.com/EoinFarrell/dotfiles/pull/18) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
-- [Update machine command](https://github.com/EoinFarrell/dotfiles/pull/16) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
+- [Phase 3 follow-ups: real-world fixes found via live testing](https://github.com/EoinFarrell/dotfiles/pull/20) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 months ago)
+- [Phase 3: single provision.yaml entry point, shared symlink engine](https://github.com/EoinFarrell/dotfiles/pull/18) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 months ago)
+- [Update machine command](https://github.com/EoinFarrell/dotfiles/pull/16) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 months ago)
 
 #### ⭐ Recent Stars
 
