@@ -15,7 +15,7 @@
 - [Let copylast copy the last N commands or a single ~K command](https://github.com/EoinFarrell/dotfiles/pull/31) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
 - [Add modern-web-guidance skill repo](https://github.com/EoinFarrell/dotfiles/pull/27) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
 - [Add copylast and tmux prompt-jump bindings](https://github.com/EoinFarrell/dotfiles/pull/26) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
-- [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/25) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 weeks ago)
+- [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/25) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (3 weeks ago)
 - [ansible: clear provision deprecation warnings (#22)](https://github.com/EoinFarrell/dotfiles/pull/23) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Fix Linux updateMachine/shell-startup breakages](https://github.com/EoinFarrell/dotfiles/pull/21) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Phase 3 follow-ups: real-world fixes found via live testing](https://github.com/EoinFarrell/dotfiles/pull/20) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (2 months ago)
