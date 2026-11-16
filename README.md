@@ -24,7 +24,7 @@
 
 #### ⭐ Recent Stars
 
-- [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) - Autonomous development for real products. Governed agents build from specs you approve, follow the rules you set, and nothing merges until another agent proves it. Your decisions, judgement and taste are the bar that work must clear. Declare your vision and let agents build it. (4 weeks ago)
+- [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) - Autonomous development for real products. You set the standard. Declare your vision. Walk away. It builds. (4 weeks ago)
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem (4 weeks ago)
 - [eddymoulton/jellyfin-plugin-oidc](https://github.com/eddymoulton/jellyfin-plugin-oidc) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (4 months ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (8 months ago)
