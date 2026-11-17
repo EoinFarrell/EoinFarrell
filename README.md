@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (1 day ago)
+- [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (2 days ago)
 - [EoinFarrell/phototagger](https://github.com/EoinFarrell/phototagger) - Local single-user tool for correcting EXIF metadata on JPEG/HEIC photos before Immich import (1 month ago)
 - [EoinFarrell/cv.eoinfarrell.dev](https://github.com/EoinFarrell/cv.eoinfarrell.dev) -  (1 month ago)
 
@@ -24,8 +24,8 @@
 
 #### ⭐ Recent Stars
 
-- [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) - Autonomous development for real products. You set the standard. Declare your vision. Walk away. It builds. (4 weeks ago)
-- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem (4 weeks ago)
+- [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) - Autonomous development for real products. You set the standard. Declare your vision. Walk away. It builds. (1 month ago)
+- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem (1 month ago)
 - [eddymoulton/jellyfin-plugin-oidc](https://github.com/eddymoulton/jellyfin-plugin-oidc) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (4 months ago)
 - [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) -  (8 months ago)
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (1 year ago)
