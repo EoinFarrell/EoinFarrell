@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/32) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (4 weeks ago)
+- [Speed up shell startup](https://github.com/EoinFarrell/dotfiles/pull/32) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Let copylast copy the last N commands or a single ~K command](https://github.com/EoinFarrell/dotfiles/pull/31) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Add modern-web-guidance skill repo](https://github.com/EoinFarrell/dotfiles/pull/27) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
 - [Add copylast and tmux prompt-jump bindings](https://github.com/EoinFarrell/dotfiles/pull/26) on [EoinFarrell/dotfiles](https://github.com/EoinFarrell/dotfiles) (1 month ago)
